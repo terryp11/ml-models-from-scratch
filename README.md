@@ -1,6 +1,6 @@
-## Building machine learning models from scratch
+# Building machine learning models from scratch
 
-# About
+## About
 Implementation of some machine learning models and algorithms from scratch
 with the use of numpy.
 
